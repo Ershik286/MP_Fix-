@@ -1,0 +1,21 @@
+# ======================
+# HOI4 Mod - Language Fix
+# ======================
+
+*.txt linguist-language=INI
+*.yml linguist-language=YAML
+
+common/** linguist-language=INI
+events/** linguist-language=INI
+history/** linguist-language=INI
+decisions/** linguist-language=INI
+national_focus/** linguist-language=INI
+
+localisation/** linguist-language=YAML
+
+*.gfx linguist-vendored
+*.dds linguist-vendored
+*.shader linguist-vendored
+*.mesh linguist-vendored
+
+# * linguist-documentation
