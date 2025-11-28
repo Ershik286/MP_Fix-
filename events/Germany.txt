@@ -1476,14 +1476,6 @@ country_event = {
 				news_event = { hours = 6 id = news.33 }
 			}
 		}
-		add_state_core = 96
-		add_state_core = 95
-		add_state_core = 94
-		add_state_core = 93
-		add_state_core = 91
-		#add_state_core = 97
-		add_state_core = 89
-		#add_state_core = 784
 	}
 }
 
@@ -1505,15 +1497,6 @@ country_event = {
 			type = annex_everything
 			target = FROM
 		}
-
-		add_state_core = 96
-		add_state_core = 95
-		add_state_core = 94
-		add_state_core = 93
-		add_state_core = 91
-		#add_state_core = 97
-		add_state_core = 89
-		#add_state_core = 784
 	}
 }
 
